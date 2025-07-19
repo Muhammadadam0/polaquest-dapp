@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pola-bear-dapp/static/css/main.6954f265.css",
-    "main.js": "/pola-bear-dapp/static/js/main.76167edb.js",
-    "static/js/453.85c0f94a.chunk.js": "/pola-bear-dapp/static/js/453.85c0f94a.chunk.js",
-    "index.html": "/pola-bear-dapp/index.html",
-    "main.6954f265.css.map": "/pola-bear-dapp/static/css/main.6954f265.css.map",
-    "main.76167edb.js.map": "/pola-bear-dapp/static/js/main.76167edb.js.map",
-    "453.85c0f94a.chunk.js.map": "/pola-bear-dapp/static/js/453.85c0f94a.chunk.js.map"
+    "main.css": "/polaquest-dapp/static/css/main.6954f265.css",
+    "main.js": "/polaquest-dapp/static/js/main.aaae7f19.js",
+    "static/js/453.85c0f94a.chunk.js": "/polaquest-dapp/static/js/453.85c0f94a.chunk.js",
+    "index.html": "/polaquest-dapp/index.html",
+    "main.6954f265.css.map": "/polaquest-dapp/static/css/main.6954f265.css.map",
+    "main.aaae7f19.js.map": "/polaquest-dapp/static/js/main.aaae7f19.js.map",
+    "453.85c0f94a.chunk.js.map": "/polaquest-dapp/static/js/453.85c0f94a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6954f265.css",
-    "static/js/main.76167edb.js"
+    "static/js/main.aaae7f19.js"
   ]
 }
